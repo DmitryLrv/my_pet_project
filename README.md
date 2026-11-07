@@ -40,9 +40,9 @@
 
 ## Навигация
 
-- [Методика отбора и скоринга](research/selection-framework.md)
-- [Каталог компаний и проверяемых сигналов](research/startup-watchlist.md)
-- [Потенциал Франции и конкурентная среда](research/france-market.md)
+- [Методика отбора и скоринга](research/criteria.md)
+- [Каталог компаний и проверяемых сигналов](research/startup-landscape.md)
+- [Потенциал Франции и конкурентная среда](research/france-opportunities.md)
 - [План первых 30 дней, интервью и MVP](research/validation-plan.md)
 - [Журнал решений, вопросов и гипотез](research/decision-log.md)
 
@@ -66,6 +66,6 @@
 
 ## Рабочий процесс
 
-Новые находки — в `research/startup-watchlist.md`, гипотезы/приоритеты — в `research/decision-log.md`, гипотезы по стране — в `research/france-market.md`. После интервью фиксируем первичные доказательства, изменения оценок и решение **continue / pivot / reject**.
+Новые находки — в `research/startup-landscape.md`, гипотезы/приоритеты — в `research/decision-log.md`, гипотезы по стране — в `research/france-opportunities.md`. После интервью фиксируем первичные доказательства, изменения оценок и решение **continue / pivot / reject**.
 
 > Статус: discovery / customer research. Пока **ни одна идея не выбрана окончательно**.
