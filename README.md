@@ -48,6 +48,8 @@
 - [План первых 30 дней, интервью и MVP](research/validation-plan.md)
 - [Журнал решений, вопросов и гипотез](research/decision-log.md)
 
+- [Кросс-секторный поиск свежих AI-моделей (7 ноября 2026)](research/2026-11-07-cross-sector-ai-opportunities.md)
+
 ## Что известно из первой выборки Crunchbase
 
 - Период **2025-11-08 — 2026-11-07**, тип **For Profit**, статус **Active**, без записанного exit.
