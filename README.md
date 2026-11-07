@@ -50,6 +50,8 @@
 
 - [Кросс-секторный поиск свежих AI-моделей (7 ноября 2026)](research/2026-11-07-cross-sector-ai-opportunities.md)
 
+- [Новая волна: AI-агенты для жизни, игры и creator economy (7 ноября 2026)](research/2026-11-07-next-wave-models.md)
+
 ## Что известно из первой выборки Crunchbase
 
 - Период **2025-11-08 — 2026-11-07**, тип **For Profit**, статус **Active**, без записанного exit.
