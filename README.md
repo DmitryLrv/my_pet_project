@@ -58,6 +58,8 @@
 
 - [Crunchbase AI 2026: разбор первых 50 из 401 (8 ноября 2026)](research/2026-11-08-ai-first50-review.md)
 
+- [Первый проход: Crunchbase AI 2026 — 401 результат (8 ноября 2026)](research/2026-11-08-ai401-screenshot-register.md)
+
 ## Что известно из первой выборки Crunchbase
 
 - Период **2025-11-08 — 2026-11-07**, тип **For Profit**, статус **Active**, без записанного exit.
